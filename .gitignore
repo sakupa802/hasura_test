@@ -1,0 +1,15 @@
+/node_modules
+/yarn-error.log
+yarn-debug.log*
+.yarn-integrity
+
+/.next/*
+!/.next/.keep
+/out/
+
+.DS_Store
+*.DS_Store
+
+*.local
+
+.vscode/
